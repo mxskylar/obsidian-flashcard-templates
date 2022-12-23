@@ -1,4 +1,9 @@
-.trash
+.trash/
 .DS_Store
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+/.obsidian/*
+!/.obsidian/core-plugins.json
+!/.obsidian/hotkeys.json
+!/.obsidian/community-plugins.json
+!/.obsidian/appearance.json
+!/.obsidian/plugins/
+!/.obsidian/snippets/
