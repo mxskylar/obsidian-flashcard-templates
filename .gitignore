@@ -4,5 +4,6 @@
 !.obsidian/core-plugins.json
 !.obsidian/hotkeys.json
 !.obsidian/community-plugins.json
+!.obsidian/appearance.json
 !.obsidian/plugins/**
 !.obsidian/snippets/**
