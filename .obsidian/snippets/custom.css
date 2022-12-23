@@ -1,0 +1,16 @@
+.vocab-card .hint, .jeopardy-card button.hint {
+  display: none;
+}
+.vocab-card a.tag, .jeopardy-card a.tag {
+  display: none;
+}
+.vocab-card div.mod-tags a.tag, .jeopardy-card div.mod-tags a.tag  {
+  display: initial;
+}
+.vocab-card img, .jeopardy-card img {
+  margin-top: 15px;
+}
+/* Hide hint an answer from preview of jeopardy questions */
+.hover-popover .jeopardy-card .markdown-preview-section div:nth-child(n+4) {
+  display: none;
+}
